@@ -1,4 +1,4 @@
-# James Lazo 011529541
+# James Lazo
 
 # Try block
 Try {

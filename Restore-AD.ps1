@@ -1,4 +1,4 @@
-# James Lazo 011529541
+# James Lazo
 
 # Bypass run option prompts
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
